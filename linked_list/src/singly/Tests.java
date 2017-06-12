@@ -29,7 +29,7 @@ public class Tests {
 		testRemoveOnly();
 		testRemoveFirst();
 		testRemoveLast();
-		testRemoveLast();
+		testRemoveMiddle();
 	}
 	
 	public static void testSizeEmpty()
