@@ -80,7 +80,7 @@ public class Tests {
         _heap.insert(662, "C++");
         _heap.insert(551, "nice");
 
-        _heap.remove(2); 
+        _heap.remove(2);
         assert _heap.getSize() == 2;
         _heap.remove(0);
         _heap.remove(0);
